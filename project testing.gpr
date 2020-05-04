@@ -1,0 +1,43 @@
+[PROJECT]
+
+[SOLVERS]
+LP=CPLEX
+MIP=CPLEX
+MIQCP=CPLEX
+QCP=CPLEX
+RMIP=CPLEX
+RMIQCP=CPLEX
+
+[RP:DEBUGING]
+1=
+
+[RP:UNTITLED_1]
+1=
+
+[RP:TESTING]
+1=
+
+[RP:TESTING CONCISE]
+1=
+
+[RP:DEBUGING 3]
+1=
+
+[MRUFILES]
+1=\\Client\H$\Desktop\opt testing\Untitled_1.gms
+2=\\Client\H$\Desktop\opt testing\debuging 3.lst
+3=\\Client\H$\Desktop\opt testing\debuging.lst
+4=\\Client\H$\Desktop\opt testing\debuging.gms
+
+[OPENWINDOW_1]
+FILE0=\\Client\H$\Desktop\opt testing\debuging 3.gms
+FILE1=\\Client\H$\Desktop\opt testing\testing concise.gms
+FILE2=\\Client\H$\Desktop\opt testing\testing concise.lst
+FILE3=\\Client\H$\Desktop\opt testing\testing.gms
+FILE4=\\Client\H$\Desktop\opt testing\testing.lst
+FILE5=\\Client\H$\Desktop\opt testing\testing concise.gms
+MAXIM=1
+TOP=-7
+LEFT=7
+HEIGHT=693
+WIDTH=942
