@@ -1,2 +1,7 @@
 # Optimization-Final-Project
-CSCI-SHU 240 Intro to Optimization and Mathematical Programming | Spring2020 | Final Project | Optimization of NYU Shanghai Shuttle Bus Time Schedule
+
+Please check the final outcome in `Project Report.pdf`. We implemented GAMS to solve the schedule optimization problem formulated in Spatio-temporal networks.
+
+Optimized Schedule:
+
+![Optimized Schedule](readme/schedule.png)
