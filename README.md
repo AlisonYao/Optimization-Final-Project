@@ -4,4 +4,4 @@ Please check the final outcome in `Project Report.pdf`. We implemented GAMS to s
 
 Optimized Schedule:
 
-![Optimized Schedule](readme/schedule.png)
+<img src="readme/schedule.png" width="300">
